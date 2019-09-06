@@ -4,9 +4,9 @@
 
 # Tested Termux & Windows Working
 
-# Tampilan Scanning Host Via Windows
-![be](https://raw.githubusercontent.com/boychongzen18/scanner-host/master/host.jpg)
-
+# Tampilan Scanning Host Via Termux
+![be](https://raw.githubusercontent.com/boychongzen18/scanner-host/master/termux.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/scanner-host/master/termux1.jpg)
 # Tampilan Scanning Host Via Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/scanner-host/master/host.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/scanner-host/master/host1.jpg)
