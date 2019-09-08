@@ -1,4 +1,4 @@
-# Scanning Host 
+# Scanning Host - Proxy
 
 # Author : Boychongzen aka Xroot
 
